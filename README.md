@@ -23,28 +23,28 @@ No em dashes. No purple gradients. No "elevate your business". Colors that pass 
 **Claude Code plugin (easiest)**
 
 ```
-/plugin marketplace add syedmukheeth/Remove-AI-Slope
+/plugin marketplace add syedmukheeth/Remove-AI-Slop
 /plugin install remove-ai-slop@remove-ai-slop
 ```
 
 **Manual (macOS / Linux)**
 
 ```bash
-git clone https://github.com/syedmukheeth/Remove-AI-Slope.git
-cp -r Remove-AI-Slope/skills/remove-ai-slop ~/.claude/skills/
+git clone https://github.com/syedmukheeth/Remove-AI-Slop.git
+cp -r Remove-AI-Slop/skills/remove-ai-slop ~/.claude/skills/
 ```
 
 **Manual (Windows PowerShell)**
 
 ```powershell
-git clone https://github.com/syedmukheeth/Remove-AI-Slope.git
-Copy-Item -Recurse Remove-AI-Slope\skills\remove-ai-slop $HOME\.claude\skills\
+git clone https://github.com/syedmukheeth/Remove-AI-Slop.git
+Copy-Item -Recurse Remove-AI-Slop\skills\remove-ai-slop $HOME\.claude\skills\
 ```
 
 **Other agents** (Cursor, Codex, Gemini CLI, and anything that reads `SKILL.md`)
 
 ```bash
-npx skills add syedmukheeth/Remove-AI-Slope
+npx skills add syedmukheeth/Remove-AI-Slop
 ```
 
 Restart Claude Code after installing. Needs Node 18+ for the scripts.
