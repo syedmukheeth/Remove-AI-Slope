@@ -1,0 +1,82 @@
+{
+  "graphite-signal": {
+    "name": "Graphite Signal",
+    "mood": "precise, technical, confident",
+    "fits": ["SaaS", "AI products", "developer tools", "analytics", "B2B software"],
+    "fonts": "geist",
+    "light": { "bg": "#FAFAFA", "surface": "#FFFFFF", "ink": "#0E0F12", "muted": "#555963", "border": "#E4E5E9", "accent": "#2446F5", "on-accent": "#FFFFFF" },
+    "dark": { "bg": "#0B0C0F", "surface": "#14161B", "ink": "#EDEEF2", "muted": "#9A9EA9", "border": "#262932", "accent": "#7C94FF", "on-accent": "#0B0C0F" }
+  },
+  "forest-bone": {
+    "name": "Forest Bone",
+    "mood": "grounded, calm, natural",
+    "fits": ["wellness", "outdoor gear", "landscaping", "sustainability", "yoga studios"],
+    "fonts": "bricolage-instrument",
+    "light": { "bg": "#F3F3EE", "surface": "#FBFBF8", "ink": "#12201A", "muted": "#505C55", "border": "#DADBD2", "accent": "#1E5134", "on-accent": "#F3F3EE" },
+    "dark": { "bg": "#0D1410", "surface": "#141D17", "ink": "#E8ECE5", "muted": "#99A49C", "border": "#243029", "accent": "#82C79D", "on-accent": "#0D1410" }
+  },
+  "terracotta-slate": {
+    "name": "Terracotta Slate",
+    "mood": "warm but architectural",
+    "fits": ["architecture", "interior design", "real estate", "boutique hotels", "construction"],
+    "fonts": "jakarta-jetbrains",
+    "light": { "bg": "#F3F4F5", "surface": "#FFFFFF", "ink": "#1A1E23", "muted": "#555D67", "border": "#DCE0E4", "accent": "#A8431F", "on-accent": "#FFFFFF" },
+    "dark": { "bg": "#111417", "surface": "#1A1E23", "ink": "#E8EAED", "muted": "#9AA3AD", "border": "#2A3038", "accent": "#E58563", "on-accent": "#111417" }
+  },
+  "black-tan": {
+    "name": "Black Tan",
+    "mood": "sharp, tailored, masculine-leaning luxury",
+    "fits": ["fashion", "barbershops", "leather goods", "spirits", "menswear"],
+    "fonts": "cormorant-jost",
+    "light": { "bg": "#F4F3F1", "surface": "#FFFFFF", "ink": "#141312", "muted": "#5B5650", "border": "#E0DCD6", "accent": "#7E5B3A", "on-accent": "#FFFFFF" },
+    "dark": { "bg": "#0F0E0D", "surface": "#191715", "ink": "#F2EEE8", "muted": "#A39C92", "border": "#2C2925", "accent": "#CFA67C", "on-accent": "#0F0E0D" }
+  },
+  "cold-luxury": {
+    "name": "Cold Luxury",
+    "mood": "engineered, silent, expensive",
+    "fits": ["watches", "automotive", "private banking", "jewelry", "hardware products"],
+    "fonts": "unbounded-manrope",
+    "light": { "bg": "#F4F5F7", "surface": "#FFFFFF", "ink": "#0A0B0D", "muted": "#565D67", "border": "#DADDE2", "accent": "#343E4C", "on-accent": "#FFFFFF" },
+    "dark": { "bg": "#0A0B0D", "surface": "#131519", "ink": "#F1F2F4", "muted": "#9199A3", "border": "#252930", "accent": "#C9CFD8", "on-accent": "#0A0B0D" }
+  },
+  "olive-brick": {
+    "name": "Olive Brick",
+    "mood": "hearty, crafted, appetizing",
+    "fits": ["restaurants", "bakeries", "coffee", "craft beer", "food brands"],
+    "fonts": "dmserif-dmsans",
+    "light": { "bg": "#EFEFE6", "surface": "#FAFAF5", "ink": "#1D2015", "muted": "#53574A", "border": "#D6D7C9", "accent": "#9C341E", "on-accent": "#FFFFFF" },
+    "dark": { "bg": "#13140F", "surface": "#1C1E17", "ink": "#ECECE3", "muted": "#A2A493", "border": "#2D2F25", "accent": "#E4775A", "on-accent": "#13140F" }
+  },
+  "mono-pop": {
+    "name": "Mono Pop",
+    "mood": "loud, editorial, confident",
+    "fits": ["creative agencies", "portfolios", "design studios", "events", "music"],
+    "fonts": "clash-satoshi",
+    "light": { "bg": "#F6F6F4", "surface": "#FFFFFF", "ink": "#0C0C0C", "muted": "#5C5C5C", "border": "#E2E2DF", "accent": "#FF4A1C", "on-accent": "#0C0C0C" },
+    "dark": { "bg": "#0C0C0C", "surface": "#161616", "ink": "#F2F2F0", "muted": "#9A9A96", "border": "#2A2A2A", "accent": "#FF5A2E", "on-accent": "#0C0C0C" }
+  },
+  "navy-mint": {
+    "name": "Navy Mint",
+    "mood": "trustworthy, clean, reassuring",
+    "fits": ["fintech", "clinics", "healthcare", "insurance", "dental"],
+    "fonts": "plex",
+    "light": { "bg": "#F5F7F9", "surface": "#FFFFFF", "ink": "#0B1B2B", "muted": "#4D5D6D", "border": "#DCE3EA", "accent": "#0B7560", "on-accent": "#FFFFFF" },
+    "dark": { "bg": "#08131F", "surface": "#0F1D2C", "ink": "#E6EDF3", "muted": "#93A4B5", "border": "#1E3044", "accent": "#5FD4B4", "on-accent": "#08131F" }
+  },
+  "midnight-lime": {
+    "name": "Midnight Lime",
+    "mood": "high energy, athletic, electric",
+    "fits": ["fitness", "sports", "energy drinks", "esports", "running clubs"],
+    "fonts": "barlow",
+    "light": { "bg": "#F5F6F1", "surface": "#FFFFFF", "ink": "#10130D", "muted": "#545A4C", "border": "#DFE2D8", "accent": "#C6F432", "on-accent": "#10130D" },
+    "dark": { "bg": "#0B0D0A", "surface": "#141712", "ink": "#F0F3EA", "muted": "#9DA394", "border": "#262A22", "accent": "#C6F432", "on-accent": "#0B0D0A" }
+  },
+  "plum-blush": {
+    "name": "Plum Blush",
+    "mood": "soft, intimate, polished",
+    "fits": ["beauty", "skincare", "spas", "florists", "wedding services"],
+    "fonts": "newsreader-intertight",
+    "light": { "bg": "#F8F4F3", "surface": "#FFFFFF", "ink": "#24121C", "muted": "#67525D", "border": "#EADFDD", "accent": "#7B2D57", "on-accent": "#FFFFFF" },
+    "dark": { "bg": "#150B11", "surface": "#1F1219", "ink": "#F5EBEF", "muted": "#B39AA6", "border": "#33212B", "accent": "#F0A6C4", "on-accent": "#150B11" }
+  }
+}

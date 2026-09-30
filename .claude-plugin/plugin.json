@@ -1,0 +1,13 @@
+{
+  "name": "remove-ai-slop",
+  "description": "Build premium websites that do not look AI-generated. Zero em dashes, contrast-verified palettes, curated font pairings, layout and motion rules, and a slop scanner.",
+  "version": "1.0.0",
+  "author": {
+    "name": "syedmukheeth",
+    "url": "https://github.com/syedmukheeth"
+  },
+  "homepage": "https://github.com/syedmukheeth/Remove-AI-Slope",
+  "repository": "https://github.com/syedmukheeth/Remove-AI-Slope",
+  "license": "MIT",
+  "keywords": ["design", "frontend", "website", "typography", "color", "anti-slop", "em-dash"]
+}

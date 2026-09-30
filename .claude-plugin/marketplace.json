@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "remove-ai-slop",
+  "description": "Skills for building premium websites that do not look AI-generated.",
+  "owner": {
+    "name": "syedmukheeth",
+    "url": "https://github.com/syedmukheeth"
+  },
+  "plugins": [
+    {
+      "name": "remove-ai-slop",
+      "description": "Premium website rules: zero em dashes, verified color palettes, font pairings, layout and motion discipline, and a slop scanner.",
+      "source": "./",
+      "category": "design"
+    }
+  ]
+}
